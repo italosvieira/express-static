@@ -2,12 +2,12 @@
   "name": "express-static",
   "version": "1.0.0",
   "description": "Just a static server to test my bundles",
-  "main": "src/index.js",
+  "main": "src/server.js",
   "license": "MIT",
   "repository": "https://github.com/italosvieira/express-static",
   "author": "Ítalo da Silva Vieira",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/server.js"
   },
   "dependencies": {
     "express": "^4.17.1"
